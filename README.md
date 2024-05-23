@@ -9,6 +9,6 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#823](https://github.com/plasma-umass/scalene/issues/823#issuecomment-2103927379) in [plasma-umass/scalene](https://github.com/plasma-umass/scalene)
+1. ❗ Opened issue [#61](https://github.com/hustvl/VAD/issues/61) in [hustvl/VAD](https://github.com/hustvl/VAD)
 <!--END_SECTION:activity-->
 
