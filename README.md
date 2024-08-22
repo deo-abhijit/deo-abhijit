@@ -8,6 +8,6 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#130424](https://github.com/pytorch/pytorch/issues/130424) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. 🗣 Commented on [#3](https://github.com/autonomousvision/sledge/issues/3#issuecomment-2303993277) in [autonomousvision/sledge](https://github.com/autonomousvision/sledge)
 <!--END_SECTION:activity-->
 
