@@ -8,6 +8,6 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/DimaBir/ResNetTensorRT/pull/8#issuecomment-2379477459) in [DimaBir/ResNetTensorRT](https://github.com/DimaBir/ResNetTensorRT)
+1. 💪 Opened PR [#10](https://github.com/DimaBir/ResNetTensorRT/pull/10) in [DimaBir/ResNetTensorRT](https://github.com/DimaBir/ResNetTensorRT)
 <!--END_SECTION:activity-->
 
