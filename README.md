@@ -8,6 +8,6 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121623](https://github.com/pytorch/pytorch/issues/121623#issuecomment-2382282420) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. 🗣 Commented on [#9](https://github.com/DimaBir/ResNetTensorRT/issues/9#issuecomment-2391105942) in [DimaBir/ResNetTensorRT](https://github.com/DimaBir/ResNetTensorRT)
 <!--END_SECTION:activity-->
 
