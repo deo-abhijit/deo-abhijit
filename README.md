@@ -8,6 +8,6 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/DimaBir/ResNetTensorRT/issues/9#issuecomment-2391105942) in [DimaBir/ResNetTensorRT](https://github.com/DimaBir/ResNetTensorRT)
+1. ❗ Opened issue [#33974](https://github.com/huggingface/transformers/issues/33974) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--END_SECTION:activity-->
 
