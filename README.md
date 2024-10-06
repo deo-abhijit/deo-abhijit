@@ -8,6 +8,6 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33974](https://github.com/huggingface/transformers/issues/33974) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. 🗣 Commented on [#33974](https://github.com/huggingface/transformers/issues/33974#issuecomment-2395349892) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--END_SECTION:activity-->
 
