@@ -8,6 +8,6 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1769](https://github.com/eclipse-ecal/ecal/issues/1769#issuecomment-2429158075) in [eclipse-ecal/ecal](https://github.com/eclipse-ecal/ecal)
+1. ❗ Opened issue [#3256](https://github.com/pytorch/TensorRT/issues/3256) in [pytorch/TensorRT](https://github.com/pytorch/TensorRT)
 <!--END_SECTION:activity-->
 
